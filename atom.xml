@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://friends.kegongteng.cn</id>
+    <title>Kegongteng的朋友们</title>
+    <updated>2024-10-27T00:35:24.977Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://friends.kegongteng.cn"/>
+    <link rel="self" href="https://friends.kegongteng.cn/atom.xml"/>
+    <subtitle>与数百名博主无限进步</subtitle>
+    <logo>https://friends.kegongteng.cn/images/avatar.png</logo>
+    <icon>https://friends.kegongteng.cn/favicon.ico</icon>
+    <rights>All rights reserved 2024, Kegongteng的朋友们</rights>
+</feed>
